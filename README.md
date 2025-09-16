@@ -5,11 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushsahu11" alt="aayushsahu11" /></a> </p>
 
-- 🌱 I’m currently learning **Playwright + Javascript**
+---
 
-- 📫 How to reach me **aayushsahuofficial96@gmail.com**
+### 🚀 About Me  
+- 🔭 QA Analyst with hands-on experience in **Automation & Manual Testing**  
+- 🌱 Currently learning **Playwright + JavaScript** and improving my **API Testing** skills  
+- 💡 Skilled in **Java, Selenium, Postman, Jenkins, MySQL**  
+- 🎯 Focused on building strong **test automation frameworks** and improving product quality  
+- 📫 Reach me at **aayushsahuofficial96@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">### 🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/aayush-sahu-a16094188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aayush-sahu-a16094188" height="30" width="40" /></a>
 </p>
